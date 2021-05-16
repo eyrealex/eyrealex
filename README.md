@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @eyrealex
 - 👀 I’m interested in Java, Android developement, Ruby on Rails, but also learning as much new technology that I can.
-- 🌱 I’m currently learning Ruby on Rails and Client/Server protobuffer calls for my final year.
-- 💞️ I’m looking to collaborate on Android projects using Java
+- 🌱 I have graduated in the year 2021 and lookign to expand my knowledge.
 - 📫 How to reach me eyrealex97@gmail.com
 
 <!---
