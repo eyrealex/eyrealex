@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eyrealex
-- 👀 I’m interested in Java, Android developement, Ruby on Rails, but also learning as much new technology that I can.
-- 🌱 Working as a QA Analyst for H&R Block.
+- 👀 I’m interested in Java, Android developement, C# and creating automation for testing.
+- 🌱 Working as a QA Automation Engineer for H&R Block.
 - 📫 How to reach me eyrealex97@gmail.com
 
 <!---
