@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eyrealex
-- 👀 I’m interested in Java, Android developement, C# and creating automation for testing.
+- 👀 I’m interested in Java, Android developement, with a keen interest to learn game design in Java
 - 🌱 Working as a QA Automation Engineer for H&R Block.
 - 📫 How to reach me eyrealex97@gmail.com
 
