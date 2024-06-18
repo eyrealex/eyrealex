@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eyrealex
-- 👀 I’m interested in Java, Android developement, with a keen interest to learn game design in Java
+- 👀 I’m interested in Java, C#, Android developement, with a keen interest to learn game design in Unity using C#
 - 🌱 Working as a QA Automation Engineer
 - 📫 How to reach me eyrealex97@gmail.com
 
